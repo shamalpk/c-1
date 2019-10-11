@@ -6,4 +6,5 @@ int main()
  cout<<"HELLO WORLD";
  cin>>x="Hai ABHIJATH";
  cout<<x;
+ cout<<"hai firends";
  }
